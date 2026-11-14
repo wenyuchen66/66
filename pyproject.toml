@@ -9,7 +9,11 @@ authors = [
   { name="Group66" }
 ]
 description = "Poem card generator"
-requires-python = ">=3.8"
-
+requires-python = ">=3.9"
+dependencies = [
+  "Pillow>=9.0"
+]
+readme = "README.md"
 [project.urls]
 "Homepage" = "https://github.com/wenyuchen66/66"
+
