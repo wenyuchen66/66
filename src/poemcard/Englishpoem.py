@@ -1,8 +1,8 @@
 import argparse
 import sys
-from generator import generate_poem
-from validation import validate_poem  
-from visualizer import render_card   
+from .generator import generate_poem
+from .validation import validate_poem  
+from .visualizer import render_card   
 
 
 def main():
