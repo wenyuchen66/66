@@ -15,5 +15,8 @@ dependencies = [
 ]
 readme = "README.md"
 [project.urls]
-"Homepage" = "https://github.com/wenyuchen66/66"
-
+Homepage = "https://github.com/wenyuchen66/66"
+Repository = "https://github.com/wenyuchen66/66"
+[tool.setuptools]
+packages = ["poemcard"]
+package-dir = { "poemcard" = "src/poemcard" }
