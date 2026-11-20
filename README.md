@@ -8,7 +8,7 @@ Install Python 3.9 or later and [Ollama](https://ollama.com/). Start Ollama and 
 
 ```sh
 ollama pull qwen2.5:3b
-python -m pip install poemcard==0.1.1
+python -m pip install poemcard
 ```
 
 ## Generate a card
