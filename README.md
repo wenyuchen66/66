@@ -33,7 +33,7 @@ lines[2] = "Dawn finds the last bug."
 print(validate_poem("CODE", lines))  # []
 ```
 
-[GitHub repository](https://github.com/wenyuchen66/66) · [PyPI release](https://pypi.org/project/poemcard/0.1.1/)
+[GitHub repository](https://github.com/wenyuchen66/66) · [PyPI release](https://pypi.org/project/poemcard/0.1.2/)
 
 ## License
 
